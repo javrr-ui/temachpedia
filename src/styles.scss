@@ -39,6 +39,10 @@
 //  @tailwind utilities;
 //}
 
+:root {
+  --font-family: 'arial', 'sans-serif';
+}
+
 body {
   font-family: var(--font-family);
   background-image: url('assets/peacuful male warrior.webp');
